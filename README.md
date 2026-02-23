@@ -24,6 +24,23 @@
 
 ---
 
+### 🎥 پیش‌نمایش پخش زنده رادیو جوان
+
+**لینک ۱ (بهترین و پایدارترین - با اینترنت ایران کار می‌کنه):**
+
+<video  src="https://radio.tssv.ir/hls/stream.m3u8" type="application/x-mpegURL" controls>
+  <source src="https://radio.tssv.ir/hls/stream.m3u8" type="application/x-mpegURL">
+  مرورگر شما پخش زنده HLS را پشتیبانی نمی‌کن.
+</video>
+
+**لینک ۲ ( با اینترنت ایران کار می‌کنه ):**
+
+<video >
+  <source src="[https://radio.tssv.ir/hls/stream.m3u8](https://radio3.sr-api.ir:5555/hls/stream.m3u8)" type="application/x-mpegURL">
+  مرورگر شما پخش زنده HLS را پشتیبانی نمی‌کند.
+</video>
+
+---
 ### 🚀 ServerForward.js (Node.js)
 
 اگر دانش فنی کافی داری میتونی با اسکریپت ServerForward.js یک **TCP/TLS Forwarder**روی سرور و دامنه خودت بالا بیاری برای نیم بها کردن یا سرعت بیشتر و....
