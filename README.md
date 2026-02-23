@@ -9,9 +9,9 @@
 
 | نوع لینک                              | آدرس لینک |
 |-------------------------------------|----------|
-| لینک اول ( با اینترنت ایران کار می‌کنه ) | `https://radio2.tssv.ir/hls/stream.m3u8` |
+| لینک اول ( با اینترنت ایران کار می‌کنه ) | `https://radio.tssv.ir/hls/stream.m3u8` |
 | | |
-| لینک دوم ( با اینترنت ایران کار می‌کنه ) | `https://radio.tssv.ir/hls/stream.m3u8` |
+| لینک دوم ( با اینترنت ایران کار می‌کنه ) | `https://radio2.tssv.ir/hls/stream.m3u8` |
 | | |
 | لینک تانل ( اگر بقیه کار نکرد )         | `https://radio3.sr-api.ir:5555/hls/stream.m3u8` |
 | | |
@@ -24,21 +24,8 @@
 
 ---
 
-### 🎥 پیش‌نمایش پخش زنده رادیو جوان
+### میتونید لینک هارو در VLC Media Player ویا پلیر های موزیک پخش کنید ، ربات ها ، بازی ها و...
 
-**لینک ۱ (بهترین و پایدارترین - با اینترنت ایران کار می‌کنه):**
-
-<video  src="https://radio.tssv.ir/hls/stream.m3u8" type="application/x-mpegURL" controls>
-  <source src="https://radio.tssv.ir/hls/stream.m3u8" type="application/x-mpegURL">
-  مرورگر شما پخش زنده HLS را پشتیبانی نمی‌کن.
-</video>
-
-**لینک ۲ ( با اینترنت ایران کار می‌کنه ):**
-
-<video >
-  <source src="[https://radio.tssv.ir/hls/stream.m3u8](https://radio3.sr-api.ir:5555/hls/stream.m3u8)" type="application/x-mpegURL">
-  مرورگر شما پخش زنده HLS را پشتیبانی نمی‌کند.
-</video>
 
 ---
 ### 🚀 ServerForward.js (Node.js)
